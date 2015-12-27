@@ -3,7 +3,7 @@ Get Clean Data Project
 
 Project for the Get and Clean Data Course
 
-**Note: this submission is very close to my original submission from Dec 2014. I needed to retake this class (with verification) in order to qualify for the capstone.**
+*Note: this submission is very close to my original submission from Dec 2014. I needed to retake this class (with verification) in order to qualify for the capstone.*
 
 The following files are available:
 

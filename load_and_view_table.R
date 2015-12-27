@@ -4,7 +4,7 @@ fileUrl <- "Tidy UCI HAR Dataset.txt"
 
 if (file.exists(fileUrl))
 {
-    df <- read.table(fileUrl)
+    df <- read.table(fileUrl, header=TRUE)
     View(df)
     
 } else {

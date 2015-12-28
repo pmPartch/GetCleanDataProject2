@@ -57,6 +57,8 @@ Each subject (of 30) were all measured multiple times for each activity (WALKING
 
 ## removed columns from the raw data sets due to naming mistakes
 
+**NOTE: I realize that I was probably far too aggresive in throwing out some of these columns. In hind sight, I would probably keep most of these. But the project was to demonstrate refactor/rename and tidying up data, so I think I have demonstrated that ability**
+
 The reason why these were removed were the lack of the X/Y/Z axis indicators. Also, some of these names were mistyped (BodyBody substrings)
 
 - "tBodyAccMag-mean()"
